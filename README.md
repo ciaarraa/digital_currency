@@ -7,6 +7,8 @@ Customers can add multiple gift cards from different brands to thier basket.
 The total price to be paid for a giftcard is the face value of the card minus the discount.
 
 ## Implementation Details
+`lib/digital_currency.rb` is the main entry point of the project. 
+
 This project does no use a database, as such it is necessary to pass object instances around.
 This is opposed to loading them from a database using foreign keys. 
 
