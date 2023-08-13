@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "runa_project"
+require "digital_payments"
 require "factory_bot"
 require "pry"
 RSpec.configure do |config|
